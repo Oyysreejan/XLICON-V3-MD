@@ -5,7 +5,7 @@
 <br>
 
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=3F00FF&center=true&width=900&height=100&lines=Its-SREEJAN-MD;%20Multi-Device%20WhatsApp%20Bot;%20Developed%20By%20SALMAN%20AHMAD)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=3F00FF&center=true&width=900&height=100&lines=Its-SREEJAN-MD;%20Multi-Device%20WhatsApp%20Bot;%20Developed%20By%20OYY%20SREEJAN)
 <p align="center">
   
 >XLICON-V3-MD is based on :
