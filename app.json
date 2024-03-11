@@ -4,18 +4,18 @@
   "description": "Xlicon-MD, A modular advanced wabot",
   "logo": "https://i.ibb.co/FsvbwqF/XLICON.jpg",
   "keywords": ["whatsapp", "bot", "md", "multi-device", "Xlicon", "Xlicon-MD", "wabot", "termux-bot", "sc-bot"],
-  "repository": "https://github.com/salmanytofficial/XLICON-V3-MD",
+  "repository": "https://github.com/Oyysreejan/XLICON-V3-MD",
   "stack": "container",
   "env": {
     "SUDO": {
       "description": "Add Owwner Number Here",
       "required": true,
-      "value": "923184070915"
+      "value": "917439382677"
     },
     "SUDO_NAME": {
       "description": "Add Your Name Here",
       "required": true,
-      "value": "SᴀʟᴍᴀɴSᴇʀ"
+      "value": "SREEJAN"
     },
      "HKEY": {
       "description": "Put your Heroku api key Here , Get one from here https://dashboard.heroku.com/account",
