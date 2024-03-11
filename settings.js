@@ -95,9 +95,9 @@ global.anticall = process.env.GL_NOCALL || false //bot blocks user when called
 //________________________________________________________________________________________________________
 global.autoswview = process.env.AUTO_STATUS_SEEN || true //auto status/story view
 //________________________________________________________________________________________________________
-global.adminevent = process.env.ANNOUNCE_MSG  || true //show promote/demote message
+global.adminevent = process.env.ANNOUNCE_MSG  || false //show promote/demote message
 //________________________________________________________________________________________________________
-global.groupevent = process.env.GROUP_ANNOUNCE_MSG || true //show update messages in group chat
+global.groupevent = process.env.GROUP_ANNOUNCE_MSG || false //show update messages in group chat
 //________________________________________________________________________________________________________
 
 
